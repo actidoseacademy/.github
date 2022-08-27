@@ -76,8 +76,8 @@
     <table>
     <tr>
         <th>Name</th>
-        <th>Role</th>
-        <th>Socials</th>
+        <th>Role(s)</th>
+        <th>Social Platforms</th>
     </tr>
     <tr>
         <td>Engr. Francis Ignacio</td>
@@ -113,6 +113,9 @@
         </td>
     </tr>
     </table>
+    <p>Careers and trainings will be available soon. 
+    <br />
+    For any updates, follow us on our any social platforms. 🔍 </p>
     <br />
 </div>
 <hr />
