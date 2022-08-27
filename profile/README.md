@@ -121,4 +121,4 @@
 <hr />
 
 <!-- README.md Version Section -->
-<h6 align="center"><strong>README v1.0.0</strong></h6>
+<h6 align="center"><strong>README v1.0.3</strong></h6>
