@@ -38,8 +38,8 @@
         <a href="https://www.facebook.com/actidose">
             <img alt="Facebook Page" src="https://img.shields.io/badge/-Facebook Page-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
         </a>
-        <a href="https://www.instagram.com/actidose/">
-            <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+        <a href="https://www.instagram.com/lancegrc/">
+            <img alt="Lance's Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
         </a> 
         <a href="https://www.twitter.com/actidose/">
             <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -61,8 +61,60 @@
         </a>
     </p>
     <p> Other socials and open source repositories will be posted soon... 🔥</p>
+    <br />
+</div>
+<hr />
+
+<!-- Current Members & Their Role(s) -->
+<div align="center">
+    <h3>
+        Members
+    </h3>
 </div>
 
+<div align="center">
+    <table>
+    <tr>
+        <th>Name</th>
+        <th>Role</th>
+        <th>Socials</th>
+    </tr>
+    <tr>
+        <td>Engr. Francis Ignacio</td>
+        <td>******</td>
+        <td> 
+            <a href="https://www.instagram.com/enoweewai/">
+                <img alt="Lance's Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+            </a> 
+            <a href="https://www.facebook.com/noeyignacio/">
+                <img alt="Facebook Page" src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
+            </a>    
+        </td>
+    </tr>
+    <tr>
+        <td>Engr. Paulo Dizon</td>
+        <td>******</td>
+        <td> 
+            <a href="https://www.facebook.com/paulo.dizon.395">
+                <img alt="Facebook Page" src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
+            </a>    
+        </td>
+    </tr>
+    <tr>
+        <td>Lancelot Garcia</td>
+        <td>******</td>
+        <td> 
+            <a href="https://www.instagram.com/lancegrc/">
+                <img alt="Lance's Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+            </a> 
+            <a href="https://www.facebook.com/Kim.Jinsan.98">
+                <img alt="Facebook Page" src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
+            </a>    
+        </td>
+    </tr>
+    </table>
+    <br />
+</div>
 <hr />
 
 <!-- README.md Version Section -->
