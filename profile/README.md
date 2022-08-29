@@ -10,7 +10,7 @@
 <!-- Welcome Section -->
 <div align="center">
     <h3>
-        Actidose: Phase 1
+        Actidose: Aspect 0
     </h3>
 </div>
 
@@ -21,7 +21,7 @@
     </p>
     <br />
     <p>
-        The company is still on its "Phase 1" or in development stage and still creating its own portfolio, gaining experience with real world products and still recruiting man power so it can produce state-of-the-art products: artworks and tech. solutions. 
+        The company is still on its "Aspect 0" or in development stage and still creating its own portfolio, gaining experience with real world products and still recruiting man power so it can produce state-of-the-art products: artworks and tech. solutions. 
     </p>
 </div>
 <br />
