@@ -10,7 +10,7 @@
 <!-- Welcome Section -->
 <div align="center">
     <h3>
-        Actidose: Aspect 0
+        Actidose
     </h3>
 </div>
 
