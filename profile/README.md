@@ -65,54 +65,8 @@
 </div>
 <hr />
 
-<!-- Current Members & Their Role(s) -->
+<!-- Updates -->
 <div align="center">
-    <h3>
-        Members
-    </h3>
-</div>
-
-<div align="center">
-    <table>
-    <tr>
-        <th>Name</th>
-        <th>Role(s)</th>
-        <th>Social Platforms</th>
-    </tr>
-    <tr>
-        <td>Engr. Francis Ignacio</td>
-        <td>******</td>
-        <td> 
-            <a href="https://www.instagram.com/enoweewai/">
-                <img alt="Lance's Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
-            </a> 
-            <a href="https://www.facebook.com/noeyignacio/">
-                <img alt="Facebook Page" src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
-            </a>    
-        </td>
-    </tr>
-    <tr>
-        <td>Engr. Paulo Dizon</td>
-        <td>******</td>
-        <td> 
-            <a href="https://www.facebook.com/paulo.dizon.395">
-                <img alt="Facebook Page" src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
-            </a>    
-        </td>
-    </tr>
-    <tr>
-        <td>Lancelot Garcia</td>
-        <td>******</td>
-        <td> 
-            <a href="https://www.instagram.com/lancegrc/">
-                <img alt="Lance's Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
-            </a> 
-            <a href="https://www.facebook.com/Kim.Jinsan.98">
-                <img alt="Facebook Page" src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
-            </a>    
-        </td>
-    </tr>
-    </table>
     <p>Careers and trainings will be available soon. 
     <br />
     For any updates, follow us on our any social platforms. 🔍 </p>
