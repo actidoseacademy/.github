@@ -1,27 +1,23 @@
-<!-- Main Logo & Node Logos -->
+<!-- Welcome Section -->
 <div align="center">
-    <img src="https://i.imgur.com/eyVxpAG.png" width="15%"></img>
-    <img src="https://i.imgur.com/R3fJqdG.png" width="15%"></img>
-    <img src="https://i.imgur.com/9bWepUy.png" width="15%"></img>
-    <img src="https://i.imgur.com/YrmZLBI.png" width="15%"></img>
-    <img src="https://i.imgur.com/2f9BOlP.png" width="15%"></img>
+    <h3>
+        <img src="https://i.imgur.com/Fost0Bc.png" />
+    </h3>
 </div>
 
 <!-- Welcome Section -->
 <div align="center">
     <h3>
-        Actidose
+        Actidose Academy
     </h3>
 </div>
 
 <!-- Short Company Introduction -->
 <div align="center">
     <p>
-        A service-based visual creative and software company which was founded by a group of individuals, students and professionals, based on the Philippines <img src="https://cdn-icons-png.flaticon.com/512/321/321121.png" width="12">. We do web and mobile applications designs (UI/UX), soon to develop websites and mobile applications, and do some visual creatives: graphic designs, video editing and such.
     </p>
     <br />
     <p>
-        The company is still on its "Aspect 0" or in development stage and still creating its own portfolio, gaining experience with real world products and still recruiting man power so it can produce state-of-the-art products: artworks and tech. solutions. 
     </p>
 </div>
 <br />
